@@ -3,8 +3,6 @@ import numpy as np
 # ---- 6 ----
 #DCT implementation
 
-import numpy as np
-
 class DCTConverter:
     def __init__(self):
         pass
